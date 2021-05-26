@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="ActionButton">
-        <attr name="ab_checkedImage" format="reference" />
-        <attr name="ab_image" format="reference" />
+        <attr name="ab_checkedImage" format="reference"/>
+        <attr name="ab_image" format="reference"/>
         <attr name="ab_shape" format="enum">
-            <enum name="circular" value="0" />
-            <enum name="rounded" value="1" />
+            <enum name="circular" value="0"/>
+            <enum name="rounded" value="1"/>
         </attr>
-        <attr name="ab_backgroundColor" format="color" />
-        <attr name="ab_checkable" format="boolean" />
-        <attr name="ab_elevation" format="dimension" />
+        <attr name="ab_backgroundColor" format="color"/>
+        <attr name="ab_checkable" format="boolean"/>
+        <attr name="ab_elevation" format="dimension"/>
     </declare-styleable>
 </resources>
